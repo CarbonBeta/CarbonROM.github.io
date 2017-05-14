@@ -1674,10 +1674,10 @@
 			}
 
 		}
-
+/* Adin edit #1 */
 	body {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: #202020;
+		color: #ecf0f1;
 	}
 
 	body, input, select, textarea {
@@ -1855,8 +1855,9 @@
 		color: #000000;
 	}
 
+/* Adin edit #2 */
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #ecf0f1;
 	}
 
 	blockquote {
@@ -1996,7 +1997,7 @@
 			pointer-events: none;
 			opacity: 0.25;
 		}
-
+/* FIND ME HERE */
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -2004,7 +2005,7 @@
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		color: #ecf0f1 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2013,7 +2014,7 @@
 		button:hover,
 		.button:hover {
 			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			color: #bdc3c7 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2023,7 +2024,7 @@
 		.button:active {
 			background-color: rgba(71, 211, 229, 0.2);
 			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			color: #bdc3c7 !important;
 		}
 
 		input[type="submit"].special,
@@ -2041,7 +2042,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #47D3E5;
+				background-color: #bdc3c7;
 			}
 
 			input[type="submit"].special:active,
@@ -6182,7 +6183,7 @@
 		}
 
 			.gallery.style1 a:hover {
-				color: #47D3E5;
+				color: #bdc3c7;
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
@@ -6206,6 +6207,7 @@
 			border-bottom-color: white;
 		}
 
+/* FIND ME HERE */
 		.gallery.style1 input[type="submit"],
 		.gallery.style1 input[type="reset"],
 		.gallery.style1 input[type="button"],
@@ -6213,7 +6215,7 @@
 		.gallery.style1 .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px white;
-			color: #ffffff !important;
+			color: #ecf0f1 !important;
 		}
 
 			.gallery.style1 input[type="submit"]:hover,
@@ -6221,8 +6223,8 @@
 			.gallery.style1 input[type="button"]:hover,
 			.gallery.style1 button:hover,
 			.gallery.style1 .button:hover {
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #bdc3c7;
+				color: #bdc3c7 !important;
 			}
 
 			.gallery.style1 input[type="submit"]:active,
@@ -6231,8 +6233,8 @@
 			.gallery.style1 button:active,
 			.gallery.style1 .button:active {
 				background-color: rgba(71, 211, 229, 0.2);
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #bdc3c7;
+				color: #bdc3c7 !important;
 			}
 
 			.gallery.style1 input[type="submit"].special,
@@ -6250,7 +6252,7 @@
 				.gallery.style1 input[type="button"].special:hover,
 				.gallery.style1 button.special:hover,
 				.gallery.style1 .button.special:hover {
-					background-color: #47D3E5;
+					background-color: #bdc3c7;
 				}
 
 				.gallery.style1 input[type="submit"].special:active,
